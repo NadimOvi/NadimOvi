@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nadim Mahmud</h1>
 <h3 align="center">Enthusiastic mobile application developer eager to contribute to team success through smart work</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimovi&label=Profile%20views&color=0e75b6&style=flat" alt="nadimovi" /> </p>
+
+
 <ul dir="auto">
 <li>🛠️ <strong>Experience:</strong> Over 3 years in software development</li>
-<li>👨‍💼 <strong>Working</strong> as a <strong>Senior mobile application developer</strong></li>
+<li>👨‍💼 <strong>Working</strong> as a <strong>Flutter mobile application developer</strong></li>
 <li>🏆 <strong>Experienced</strong> in <em><strong>iOS</strong></em> and <em><strong>android</strong></em> application development</li>
 <li>👨‍🏫 Good at team playing</li>
 <li>🌿 Love to learn new things</li>
 </ul>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimovi&label=Profile%20views&color=0e75b6&style=flat" alt="nadimovi" /> </p>
-
 - 📫 How to reach me **nadimovi20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
