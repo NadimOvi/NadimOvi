@@ -3,10 +3,8 @@
 <h3 align="center">Enthusiastic mobile application developer eager to contribute to team success through smart work</h3>
 
 - 📫 How to reach me **nadimovi20@gmail.com**
-- 
 <div id="user-content-badges" dir="auto">
-   
-    <a href="https://www.linkedin.com/in/nadim-ovi-41b169160/" rel="nofollow">
+   <a href="https://www.linkedin.com/in/yamin335/" rel="nofollow">
       <img src="https://camo.githubusercontent.com/d6698c3a1c0cfa303426a4ed972104fc59e4082bac08331587a1941d5f1ef0d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3043363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
     <a href="https://medium.com/@mdyamin" rel="nofollow">
@@ -19,6 +17,7 @@
       <img src="https://camo.githubusercontent.com/7070c14cf22f9bdf83b390afb1331a0c4ee0b6aa92381220d0374c576caa1c99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657252616e6b2d3332433736353f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b657272616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank Badge" data-canonical-src="https://img.shields.io/badge/HackerRank-32C765?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" style="max-width: 100%;">
     </a>
   </div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nadimovi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadim-ovi-41b169160/) 
