@@ -3,7 +3,23 @@
 <h3 align="center">Enthusiastic mobile application developer eager to contribute to team success through smart work</h3>
 
 - 📫 How to reach me **nadimovi20@gmail.com**
-
+<div id="user-content-badges" dir="auto">
+   <a href="https://yamin335.github.io/" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/07b3f1c0a90e62b279070b8eab7dba20518805b8a25cf0b5a5f4dd953b2cfae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d6666363334373f7374796c653d666f722d7468652d6261646765266c6f676f3d61646775617264266c6f676f436f6c6f723d7768697465" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-ff6347?style=for-the-badge&amp;logo=adguard&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://www.linkedin.com/in/yamin335/" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/d6698c3a1c0cfa303426a4ed972104fc59e4082bac08331587a1941d5f1ef0d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3043363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://medium.com/@mdyamin" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/d63f69ccbf50db4ac87364f564631e1a8fa92709f2206309690ce96e2247d71b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3239323932393f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://stackoverflow.com/users/8617744/md-yamin-mollah" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/5f1bcd0663e21e0f53cba353fc66cc18de56fb3c54577e70d5b7b4c72686878d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537461636b4f766572666c6f772d4634383232343f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="StackOverflow Badge" data-canonical-src="https://img.shields.io/badge/StackOverflow-F48224?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://www.hackerrank.com/myamin335" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/7070c14cf22f9bdf83b390afb1331a0c4ee0b6aa92381220d0374c576caa1c99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657252616e6b2d3332433736353f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b657272616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank Badge" data-canonical-src="https://img.shields.io/badge/HackerRank-32C765?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+  </div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nadimovi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadim-ovi-41b169160/) 
