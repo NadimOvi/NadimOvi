@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nadim Mahmud</h1>
+<h3 align="center">Enthusiastic mobile application developer eager to contribute to team success through smart work</h3>
 
-**NadimOvi/NadimOvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **nadimovi20@gmail.com**
 
 Here are some ideas to get you started:
 
