@@ -13,7 +13,7 @@
 <li>🌿 Love to learn new things</li>
 </ul>
 
-⭐️ You can star my [repos](https://github.com/Nadim?tab=repositories), if you find something helpful 😊
+⭐️ You can star my [repos](https://github.com/NadimOvi?tab=repositories), if you find something helpful 😊
 
 - 📫 How to reach me **nadimovi20@gmail.com**
 
