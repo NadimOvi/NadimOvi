@@ -14,14 +14,7 @@
 </ul>
 
 ⭐️ You can star my [repos](https://github.com/NadimOvi?tab=repositories), if you find something helpful 😊
-<br>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-📫 How to reach me **nadimovi20@gmail.com** OR
-<a href="https://linkedin.com/in/nadim-ovi-41b169160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadim-ovi-41b169160" height="20" width="30" /></a>
 
-<br>
 <br>
 <h3>🛠️ Tech Stack 🎖️</h3>
 
@@ -51,11 +44,17 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-d9d9d9?style=flat&logo=xcode)
 ![Xcode](https://img.shields.io/badge/-VisualStudioCode-d9d9d9?style=flat&logo=vscode)
 
-
-
-
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadimovi&show_icons=true&locale=en&layout=compact" alt="nadimovi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadimovi&show_icons=true&locale=en" alt="nadimovi" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+📫 How to reach me **nadimovi20@gmail.com** OR
+<a href="https://linkedin.com/in/nadim-ovi-41b169160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadim-ovi-41b169160" height="20" width="30" /></a>
+
+<div align="center">
+    <h2 align="center"><br><br>Thank you 🥰 for your visit today!</h2>
+</div>
