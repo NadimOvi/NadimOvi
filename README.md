@@ -1,36 +1,71 @@
-<!-- Nadim Mahmud - GitHub Profile -->
+<!-- Nadim Mahmud – GitHub Profile -->
 
 <h1 align="center">👋 Hi, I'm Nadim Mahmud</h1>
-<p align="center"><strong>Mobile App Developer | Flutter Specialist | iOS & Android | Passionate Problem Solver</strong></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadimovi&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<p align="center"><strong>Mobile App Engineer | AI Explorer | Building intelligent apps with clean architecture</strong></p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a mobile app developer with a strong foundation in **Flutter**, **iOS**, and **Android** development. With over **3 years of experience**, I build clean, scalable apps that deliver value. I love turning complex problems into simple, intuitive interfaces and learning new technologies that push the boundaries of what's possible in mobile.
+I'm a mobile app developer with **2+ years** of experience building polished, production-ready apps using **Flutter**, **Kotlin**, and **Swift**.
 
-- 🚀 Strong in **Clean Architecture**, **BLoC**, **TDD**, and **Performance Optimization**
-- 📱 Focused on crafting **user-first mobile experiences**
-- 💬 Always open to tech discussions, code reviews, or app feedback
-- 🧠 Currently exploring **AI integration in mobile apps**
+My mission is to bridge the gap between **mobile development** and **artificial intelligence**, crafting smarter, user-centered applications that can learn, predict, and adapt.
 
----
-
-### 🧰 Tools & Technologies
-
-| Mobile & Frontend        | Backend & Database       | Tools & Platform         |
-|--------------------------|--------------------------|---------------------------|
-| Flutter, Kotlin, Swift   | Firebase, SQLite, MySQL  | Git, GitHub, CI/CD        |
-| Android SDK, iOS SDK     | REST APIs, GraphQL       | Android Studio, Xcode     |
-| Dart, Java, SwiftUI      | MongoDB                  | VS Code, Postman          |
+- 📱 Cross-platform & native app specialist (Flutter, Android, iOS)  
+- 🤖 Applying AI to solve real-world problems on-device  
+- 🧪 Clean Architecture + TDD + BLoC enthusiast  
+- 🚀 Focused on quality, performance, and user experience  
+- 💬 Passionate about GenAI, AR, and ML for mobile
 
 ---
 
-### 📈 GitHub Activity
+### 🤖 Currently Exploring: Generative AI in Mobile Apps
+
+I'm focused on mastering **Generative AI** and integrating it into mobile platforms to build next-gen applications that are intelligent, adaptive, and user-aware.
+
+- 🧠 Learning to integrate **LLMs (GPT, Gemini)** into mobile workflows using REST APIs  
+- 🗣️ Building mobile chat interfaces powered by **custom AI assistants**  
+- 🧾 Experimenting with **text generation**, **summarization**, and **semantic search**  
+- 🎨 Exploring **AI-generated visuals** via **Diffusion Models** and on-device creativity  
+- 📱 Prototyping **GenAI-powered apps** with real-time intelligence and personalization
+
+> 🚀 My goal: Use Generative AI to create mobile apps that *think*, *respond*, and *evolve* with the user.
+
+---
+
+### 🧰 Tech Toolbox
+
+| Mobile & Frontend         | AI/ML & Data Science         | Backend & DevOps             |
+|---------------------------|------------------------------|-------------------------------|
+| Flutter, Kotlin, Swift    | TensorFlow, PyTorch, YOLO    | Firebase, SQLite, MongoDB     |
+| Dart, Java, SwiftUI       | MLflow, DVC, OpenCV          | REST, GraphQL, FastAPI        |
+| Android SDK, iOS SDK      | Scikit-learn, Pandas, NumPy  | Git, GitHub Actions, Docker   |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 End-to-End Kidney Disease Classification  
+A full ML pipeline for kidney disease detection using **DVC**, **MLflow**, and **deep learning models**.  
+Includes version control, tracking, and deployment workflow.  
+→ [View Project](https://github.com/NadimOvi/End-To-End-Kidney-Disease-Classification-MLflow-DVC)
+
+---
+
+#### 🌪️ Vortex Street Visualization  
+Simulates **Von Kármán vortex shedding** using C++/OpenGL — a beautiful intersection of code and physics.  
+→ [View Project](https://github.com/NadimOvi/VortexStreetVisualization)
+
+---
+
+#### 🌱 Wellbeing Tracker  
+An experimental health tracker app focused on daily wellness patterns.  
+→ Flutter + Firebase + calendar-based insights & analytics  
+→ [View Project](https://github.com/NadimOvi/Wellbeing-Tracker)
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadimovi&show_icons=true&hide_title=true&hide_border=true&theme=default" width="47%" />
@@ -39,26 +74,15 @@ I'm a mobile app developer with a strong foundation in **Flutter**, **iOS**, and
 
 ---
 
-### 📌 Featured Projects
+### 🌐 Connect With Me
 
-Here are a few highlights from my public work:
-
-- 🧭 **SmartPathAR** – Real-time camera navigation app using Google Maps API + device sensors
-- 📋 **Taskzen** – A minimalist Flutter-based task tracker with offline sync
-- 🌱 **Wellbeing Tracker** – Experimental health tracker app focused on mental wellness
-
-👉 Check out more in my [repositories](https://github.com/NadimOvi?tab=repositories)
-
----
-
-### 📫 Contact Me
-
-- Email: **nadimovi20@gmail.com**
-- LinkedIn: [linkedin.com/in/nadim-ovi-41b169160](https://linkedin.com/in/nadim-ovi-41b169160)
+- 📫 Email: **nadimovi20@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/nadim-ovi-41b169160](https://linkedin.com/in/nadim-ovi-41b169160)
 
 ---
 
 <div align="center">
-  <sub><i>Building better apps, one widget at a time.</i></sub><br>
-  <strong>Thanks for visiting!</strong> 🙏
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=480&lines=Crafting+mobile+apps+that+think+with+you..." alt="Typing SVG" />
+  <sub><i>“Code smart. Ship fast. Stay curious.”</i></sub><br>
+  <strong>Thanks for visiting! Let's build the future together. 🚀</strong>
 </div>
