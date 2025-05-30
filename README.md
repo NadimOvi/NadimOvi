@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a mobile app developer with **2+ years** of experience building polished, production-ready apps using **Flutter**, **Kotlin**, and **Swift**.
+I'm a mobile app developer with **2+ years** of experience building polished, production-ready apps using **Flutter**, **Kotlin**, and **C++**.
 
 My mission is to bridge the gap between **mobile development** and **artificial intelligence**, crafting smarter, user-centered applications that can learn, predict, and adapt.
 
@@ -37,8 +37,8 @@ I'm focused on mastering **Generative AI** and integrating it into mobile platfo
 
 | Mobile & Frontend         | AI/ML & Data Science         | Backend & DevOps             |
 |---------------------------|------------------------------|-------------------------------|
-| Flutter, Kotlin, Swift    | TensorFlow, PyTorch, YOLO    | Firebase, SQLite, MongoDB     |
-| Dart, Java, SwiftUI       | MLflow, DVC, OpenCV          | REST, GraphQL, FastAPI        |
+| Flutter, Kotlin, C++      | TensorFlow, PyTorch, YOLO    | Firebase, SQLite, MongoDB     |
+| Dart, Java, Qt            | MLflow, DVC, OpenCV          | REST, GraphQL, FastAPI        |
 | Android SDK, iOS SDK      | Scikit-learn, Pandas, NumPy  | Git, GitHub Actions, Docker   |
 
 ---
@@ -87,4 +87,3 @@ An experimental health tracker app focused on daily wellness patterns.
   <sub><i>"Intelligent experiences start with intentional code."</i></sub><br>
   <strong>Let’s shape the future of mobile, one smart app at a time. 🤖📱</strong>
 </div>
-
