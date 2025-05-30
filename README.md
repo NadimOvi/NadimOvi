@@ -1,7 +1,7 @@
 <!-- Nadim Mahmud – GitHub Profile -->
 
 <h1 align="center">👋 Hi, I'm Nadim Mahmud</h1>
-<p align="center"><strong>Mobile App Engineer | AI Explorer | Building intelligent apps with clean architecture</strong></p>
+<p align="center"><strong>Mobile Application Developer & AI Innovator | Building Intelligent, Adaptive, and User-Centered Experiences</strong></p>
 
 ---
 
@@ -82,7 +82,9 @@ An experimental health tracker app focused on daily wellness patterns.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=480&lines=Crafting+mobile+apps+that+think+with+you..." alt="Typing SVG" />
-  <sub><i>“Code smart. Ship fast. Stay curious.”</i></sub><br>
-  <strong>Thanks for visiting! Let's build the future together. 🚀</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+Mobile+Apps+with+AI+at+the+Edge;Driven+by+Design.+Powered+by+Code." alt="Typing SVG" />
+  <br><br>
+  <sub><i>"Intelligent experiences start with intentional code."</i></sub><br>
+  <strong>Let’s shape the future of mobile, one smart app at a time. 🤖📱</strong>
 </div>
+
