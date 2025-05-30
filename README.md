@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadim Mahmud</h1>
 <h3 align="center">Enthusiastic mobile application developer eager to contribute to team success through smart work</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimovi&label=Profile%20views&color=0e75b6&style=flat" alt="nadimovi" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimovi&label=Profile%20views&color=0e75b6&style=flat" alt="nadimovi" /> </p>
 
 
 <ul dir="auto">
