@@ -48,7 +48,7 @@ I'm focused on mastering **Generative AI** and integrating it into mobile platfo
 #### 🧠 End-to-End Kidney Disease Classification  
 A full ML pipeline for kidney disease detection using **DVC**, **MLflow**, and **deep learning models**.  
 Includes version control, tracking, and deployment workflow.  
-→ [View Project](https://github.com/NadimOvi/End-To-End-Kidney-Disease-Classification-MLflow-DVC)
+→ [View Project](https://github.com/NadimOvi/Kidney-Disease-Classification-Deep-Learning)
 
 ---
 
